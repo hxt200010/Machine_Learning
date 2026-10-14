@@ -1,0 +1,2 @@
+Action values in starting state: [0.621, 0.702]
+Greedy action at start (1=right): 1

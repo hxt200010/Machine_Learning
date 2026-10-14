@@ -1,0 +1,3 @@
+Generated sample shape: (5, 2)
+Mean of five synthetic samples: [-0.382, -0.322]
+Note: this is a toy latent-variable generator, not a trained GAN or VAE.

@@ -1,0 +1,2 @@
+Best settings: {'svc__C': 10, 'svc__kernel': 'rbf'}
+Mean CV accuracy: 0.973

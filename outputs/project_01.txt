@@ -1,0 +1,4 @@
+Dataset: 250 synthetic properties
+Mean baseline MAE: 139242
+Linear regression MAE: 31803
+Fitted USD/sq ft: 214.18

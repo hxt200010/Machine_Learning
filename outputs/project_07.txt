@@ -1,0 +1,3 @@
+Chronological holdout points: 28
+Last-value MAE: 0.815
+Linear lag model MAE: 0.763

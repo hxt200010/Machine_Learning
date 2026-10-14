@@ -1,0 +1,3 @@
+Posterior Beta parameters: (10, 4)
+Posterior mean: 0.714
+95% credible interval: (np.float64(0.462), np.float64(0.909))

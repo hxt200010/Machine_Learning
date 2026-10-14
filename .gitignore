@@ -1,0 +1,36 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Kaggle API tokens and downloads
+kaggle.json
+*.zip
+*.tar.gz
+
+# Data files
+data/
+datasets/
+*.csv
+*.parquet
+*.h5
+
+# Model artifacts and checkpoints
+*.pt
+*.pth
+*.onnx
+models/
+saved_models/
+
+# Logs & Environment variables
+*.log
+.env

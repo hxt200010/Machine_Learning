@@ -1,0 +1,3 @@
+Slope: 2.0
+Intercept: 1.0
+Prediction for x=5: 11.0

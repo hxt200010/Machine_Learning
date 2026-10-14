@@ -1,0 +1,2 @@
+Anomaly labels (-1 means outlier): [1, 1, 1, 1, 1, -1]
+Anomaly values: [10.0]

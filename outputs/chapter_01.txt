@@ -1,0 +1,3 @@
+Labeled examples: 150
+Test accuracy: 0.974
+Cluster sizes: [np.int64(38), np.int64(50), np.int64(62)]

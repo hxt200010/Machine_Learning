@@ -1,0 +1,3 @@
+majority accuracy: 0.1
+kNN accuracy: 0.986
+Test digits: 360

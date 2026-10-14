@@ -1,0 +1,3 @@
+Lag-window shape: (6, 2)
+Next forecast: 25.31
+Caution: chronological testing is essential for genuine evaluation.

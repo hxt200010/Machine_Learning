@@ -1,0 +1,5 @@
+|--- signal <= 3.50
+|   |--- class: 0
+|--- signal >  3.50
+|   |--- class: 1
+Prediction at signal=5: [1]

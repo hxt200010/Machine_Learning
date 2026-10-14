@@ -1,0 +1,2 @@
+Ridge coefficients: [0.982, 0.719]
+Lasso coefficients: [1.251, 0.499]

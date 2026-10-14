@@ -1,0 +1,2 @@
+linear test accuracy: 0.92 support vectors: 78
+rbf test accuracy: 0.973 support vectors: 51

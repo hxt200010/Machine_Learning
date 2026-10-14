@@ -1,0 +1,2 @@
+Holdout image accuracy: 0.889
+Input features: 64

@@ -1,0 +1,2 @@
+Dominant frequencies (Hz): [50, 120]
+Window duration (s): 1.0

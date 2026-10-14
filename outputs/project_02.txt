@@ -1,0 +1,3 @@
+mean baseline MAE: 64.01
+ridge MAE: 42.86
+Test set size: 89

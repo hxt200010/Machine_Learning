@@ -1,0 +1,4 @@
+Analytical mean: 0.3
+Empirical mean: 0.2942
+Analytical variance: 0.21
+Estimated variance: 0.2076

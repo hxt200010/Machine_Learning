@@ -1,0 +1,2 @@
+Positive probability: 0.522
+Predictions: [1, 0]

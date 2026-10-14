@@ -1,0 +1,2 @@
+Final MSE: 0.0368
+Number of trainable parameters: 17

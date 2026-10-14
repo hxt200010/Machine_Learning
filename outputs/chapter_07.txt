@@ -1,0 +1,2 @@
+Final weight: 2.99505
+Final loss: 2.452e-05

@@ -1,0 +1,2 @@
+Vocabulary size: 10
+Spam predictions: [1, 0]

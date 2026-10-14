@@ -1,0 +1,3 @@
+Numerical derivative: 12.0
+Exact derivative: 12.0
+Absolute error: 1e-08

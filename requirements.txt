@@ -1,0 +1,21 @@
+# Core Numerical & Data Science Libraries
+numpy
+pandas
+scipy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Deep Learning Frameworks
+scikit-learn
+tensorflow
+torch
+torchvision
+
+# Kaggle API
+kaggle
+
+# Jupyter / Interactive Kernel Support
+ipykernel
+notebook

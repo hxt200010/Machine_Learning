@@ -1,0 +1,2 @@
+RandomForestClassifier test accuracy: 0.978
+GradientBoostingClassifier test accuracy: 0.978

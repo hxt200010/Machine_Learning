@@ -1,0 +1,3 @@
+Explained variance ratio: [1.0]
+First direction: [0.7071, 0.7071]
+Reduced shape: (4, 1)

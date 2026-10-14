@@ -1,0 +1,2 @@
+Serialized model bytes: 1569
+Prediction matches: True
